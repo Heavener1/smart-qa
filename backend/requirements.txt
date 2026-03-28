@@ -1,0 +1,11 @@
+django==6.0.3
+djangorestframework==3.17.1
+django-cors-headers==4.9.0
+django-filter==25.2
+mysqlclient==2.2.8
+minio==7.2.20
+redis==7.4.0
+python-dotenv==1.2.2
+pillow==12.1.1
+requests==2.33.0
+openai==2.30.0
